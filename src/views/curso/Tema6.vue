@@ -109,7 +109,7 @@
               h2.mb-4(data-aos="flip-up") Herramientas de reporte 
               p.mb-4(data-aos="fade-right") En el PDF Herramientas de reporte, se presentan diversas plataformas utilizadas para generar informes y visualizar datos, como Microsoft Excel, Google Sheets, Power BI y Tableau, entre otras. Estas herramientas facilitan la gestión de información, mejoran la colaboración entre equipos y garantizan un monitoreo eficiente del progreso de proyectos y actividades dentro de una organización.
       
-              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
