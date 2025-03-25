@@ -18,7 +18,7 @@
       #t_4_1.titulo-segundo(data-aos="flip-up")
         h2 #[span 4.1] El valor agregado y su relevancia en los procesos
 
-      .bg-full-width.bg-color-t4-3
+      .bg-full-width.bg-color-t4-3#podcast-1
         .px-4.px-md-5
           .row.justify-content-between.align-items-center
             .col-lg-6
