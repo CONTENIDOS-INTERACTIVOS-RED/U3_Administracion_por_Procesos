@@ -1,7 +1,8 @@
 export default {
   global: {
     numeroUnidad: '3',
-    tituloUnidad: 'Teoría de la administración por procesos',
+    tituloUnidad:
+      'Seguimiento y evaluación y medición de valor agregado de los procesos mejorados y análisis comparativos',
   },
   menuPrincipal: {
     menu: [
