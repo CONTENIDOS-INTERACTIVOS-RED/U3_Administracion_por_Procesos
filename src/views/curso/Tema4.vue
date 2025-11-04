@@ -145,7 +145,7 @@
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-                a(href="https://youtu.be/SasdXfq99Ss?si=-tR-W4IF5zDaMdlg" target="_blank" rel="noopener noreferrer") Nodocios Conectando (2011, 2 de noviembre) GENERA VALOR AGREGADO A TU NEGOCIO 2 EDGAR RUFFINENGO NODOCIOS.
+                a(href="https://youtu.be/s-nwkZz4w7A?si=YasJCujimvyGPMoQ" target="_blank" rel="noopener noreferrer") Nodocios conectando empresas y emprendimientos (2015, 6 de julio) conectando Generar valor agregado para los cliente Tom Wise. [video] YouTube. 
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
@@ -153,7 +153,7 @@
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://investigacion.fca.unam.mx/docs/memorias/2011/1.26.pdf" target="_blank" rel="noopener noreferrer") Mayorga Sanchez, J. Z., & Bonilla Bonilla, Y. M. (2011). Medición de la productividad por el método del valor agregado (MPVA) a las Pymes de familia del sector industria de la ciudad de Bogotá D.C.
+                a(href="https://colombia.universidadeuropea.com/blog/que-es-eva/" target="_blank" rel="noopener noreferrer") Universidad Europea (2024) ¿Qué es el valor económico agregado (EVA)? [blog] 
 
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure

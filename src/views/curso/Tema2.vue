@@ -59,13 +59,15 @@
                   | El peso promedio de un lote de producción.
             
               p Por otro lado, los #[strong indicadores de eficiencia] reflejan la relación entre los resultados obtenidos y los recursos utilizados para alcanzarlos, siendo de especial interés para la dirección de la empresa. Ejemplos comunes son:
-              ul.lista-ul
+              ul.lista-ul.mb-3
                 li
                   i.fas.fa-arrow-circle-right
                   | La cantidad de clientes atendidos por cada empleado.
                 li
                   i.fas.fa-arrow-circle-right
                   | El costo por unidad producida.
+
+              p Estos indicadores pueden aplicarse tanto a procesos individuales como a un conjunto de ellos, permitiendo analizar el desempeño global de la cadena de valor.
 
             .div(titulo="Indicadores de resultado e indicadores de operativa")
               p Los #[strong indicadores de resultado] se evalúan al finalizar un proceso y reflejan el desempeño alcanzado. Algunos ejemplos incluyen:
@@ -203,6 +205,8 @@
               | corresponden a los documentos de referencia que permiten determinar si una práctica específica cumple con los estándares establecidos. Estos criterios suelen incluir normativas, procedimientos, instrucciones y especificaciones relacionadas con los procesos.
 
             p(numero="2" titulo="Paso 2") El auditor líder establecerá contacto con los responsables de los procesos auditados, para coordinar fechas y confirmar tanto el objetivo como el alcance de la auditoría. En el caso de no disponer de los criterios de auditoría necesarios, se procederá a solicitarlos.
+
+            p(numero="3" titulo="Paso 3") Se deberá elaborar un plan de auditoría que incluya las fechas, horarios, interlocutores, temas a tratar y los miembros del equipo auditor involucrados. Este documento será revisado en conjunto con el equipo auditor y enviado a los auditados o a su representante con al menos dos semanas de anticipación. Cualquier ajuste deberá ser acordado entre ambas partes.
 
             p(numero="4" titulo="Paso 4") Asimismo, se realizará un análisis de la documentación vinculada a los procesos que serán auditados. En esta etapa preliminar, es posible identificar hallazgos iniciales, como no conformidades, oportunidades de mejora, fortalezas y aspectos a observar, así como definir posibles líneas de investigación a seguir durante la auditoría.
 
